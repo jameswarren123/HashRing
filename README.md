@@ -1,4 +1,4 @@
-# HashRing
+# ToyDistributedHash
 A C based distributed hashing naming service. This is an implementation of the consistent hashing flat naming system.
 ## Features
 ### On Bootstrap
